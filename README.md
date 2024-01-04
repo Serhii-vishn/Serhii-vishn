@@ -10,9 +10,6 @@
 
   [![codewars](https://www.codewars.com/users/AIIFA/badges/large)](https://www.codewars.com/users/AIIFA)  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serhii-vishn&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Serhii-vishn&theme=github_dark)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Serhii-vishn&theme=github_dark&utcOffset=8) 
-
 ### Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
