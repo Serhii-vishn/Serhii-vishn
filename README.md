@@ -8,8 +8,6 @@
 
 - 🌍 I speak Ukranian (native), English (B2)
 
-  [![codewars](https://www.codewars.com/users/AIIFA/badges/large)](https://www.codewars.com/users/AIIFA)  
-
 ### Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,8 +20,21 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-### Connect with me:
+### Social:
 <p align="left">
   <a href="https://www.linkedin.com/in/serhii-vyshn/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="" width="" /></a>
   <a href="https://t.me/ll_serghiy_ll" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" height="" width="" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/AIIFA">
+    <img src="https://www.codewars.com/users/AIIFA/badges/large" alt="Codewars">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/AIIFA">
+    <img src="https://github-readme-stats.vercel.app/api?username=Serhii-vishn&show_icons=true&theme=transparent&line_height=28" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhii-vishn&layout=donut&theme=transparent" alt="Top Langs">
+  </a>
 </p>
